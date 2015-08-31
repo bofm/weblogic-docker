@@ -1,2 +1,2 @@
 # weblogic-docker
-This repository moved to [github.com/oracle/docker/OracleWebLogic]()
+This repository moved to [https://github.com/oracle/docker/tree/master/OracleWebLogic/]()
